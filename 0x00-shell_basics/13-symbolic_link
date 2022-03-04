@@ -1,2 +1,2 @@
-#!bin/bash
+#/!bin/bash
 link /bin/ls/_ls_
